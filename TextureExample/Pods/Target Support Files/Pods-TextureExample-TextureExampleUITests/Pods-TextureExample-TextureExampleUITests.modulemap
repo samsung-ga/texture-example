@@ -1,0 +1,6 @@
+framework module Pods_TextureExample_TextureExampleUITests {
+  umbrella header "Pods-TextureExample-TextureExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
